@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python related to exceeding the maximum recursion depth. The `my_function` calculates factorials recursively.  The solution demonstrates how to avoid the error by using an iterative approach.
